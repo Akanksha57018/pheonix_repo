@@ -16,4 +16,8 @@ public void setauthor(String author)
 {
 this.author.author
 }
+public void getauthor()
+{
+return author;
+}
 }
